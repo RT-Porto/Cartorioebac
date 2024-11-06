@@ -146,10 +146,10 @@ int deletar()
 		 deletar();
 	 	 break;
 	 	 
-         case 4:
-         printf(" obrigado por usar o sistema!");
-         return 0;
-         break;
+	 	 case 4:
+	     printf("Obrigado por usar o sistema.");
+	     return 0;
+	     break;
           
 	 	 default:	
 	     printf("\t Essa opcao nao esta disponivel.");
